@@ -11,6 +11,7 @@ namespace proyecto1
         static void Main(string[] args)
         {
             Console.WriteLine("Primer cambio");
+            Console.WriteLine("segundo cambio");
         }
     }
 }
