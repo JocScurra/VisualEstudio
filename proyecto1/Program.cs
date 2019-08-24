@@ -14,6 +14,7 @@ namespace proyecto1
             Console.WriteLine("segundo cambio");
             Console.WriteLine("Tercer cambio");
             Console.WriteLine("Cuarto cambio");
+            Console.WriteLine("6to cambio");
         }
     }
 }
